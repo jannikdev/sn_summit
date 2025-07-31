@@ -4,6 +4,10 @@ API-Keys:
 OpenRouter: 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
 Brave API: BSARLtMZTn8coplxwOHts-lQR_r7YHa
 
+URLs:
+n8n: https://n8n.sn-demo.com
+Handelsregister: https://n8n.sn-demo.com/webhook/c0f9e2ff-3487-4a78-b9ab-7f71869c8ab2 (Query Parameter "Firmenname" -> string)
+
 Zugänge (bitte nur eure Nummer verwenden!):
 
 |  Nummer |  Mail  | Link |
