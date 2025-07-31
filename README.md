@@ -1,7 +1,7 @@
 Diese Datei beinhaltet die notwendigen Zugangsdaten für den KI Workshop auf dem S&N Summit
 
 API-Keys:
-sn-demo.com/keys
+http://sn-demo.com/keys
 
 URLs:
 n8n: https://n8n.sn-demo.com
