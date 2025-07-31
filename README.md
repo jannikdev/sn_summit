@@ -1,9 +1,7 @@
 Diese Datei beinhaltet die notwendigen Zugangsdaten für den KI Workshop auf dem S&N Summit
 
 API-Keys:
-OpenRouter: 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
-
-Brave API: BSARLtMZTn8coplxwOHts-lQR_r7YHa
+sn-demo.com/keys
 
 URLs:
 n8n: https://n8n.sn-demo.com
