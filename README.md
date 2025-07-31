@@ -2,6 +2,7 @@ Diese Datei beinhaltet die notwendigen Zugangsdaten für den KI Workshop auf dem
 
 API-Keys:
 OpenRouter: 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
+
 Brave API: BSARLtMZTn8coplxwOHts-lQR_r7YHa
 
 URLs:
